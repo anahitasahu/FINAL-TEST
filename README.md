@@ -1,32 +1,20 @@
-# Mintlify Starter Kit
+# Product Critique by Anahita Sahu
 
-Click on `Use this template` to copy the Mintlify starter kit. The starter kit contains examples including
+Overall, very easy UX and clear instructions. Needs some prior familiarity with Github. Would love to understand how this works for a non-technical audience
 
-- Guide pages
-- Navigation
-- Customizations
-- API Reference pages
-- Use of popular components
+### 3 things I love
 
-### Development
+- Repeated instructions, especially with copy-paste code blocks
+- Seamless integration with github
+- Great use and positioning of starter template
 
-Install the [Mintlify CLI](https://www.npmjs.com/package/mintlify) to preview the documentation changes locally. To install, use the following command
+<Tip>The breaking down of elements into copy-paste code blocks is great!</Tip>
 
-```
-npm i -g mintlify
-```
+### 3 things I didn't love
 
-Run the following command at the root of your documentation (where mint.json is)
+- Need to know github, lots of minor technical set-up processes
+- Need to go into code to format or customize text and color
+- Confused by how structuring works given Githube code is just stacked one after the other
 
-```
-mintlify dev
-```
 
-### Publishing Changes
 
-Install our Github App to auto propagate changes from your repo to your deployment. Changes will be deployed to production automatically after pushing to the default branch. Find the link to install on your dashboard. 
-
-#### Troubleshooting
-
-- Mintlify dev isn't running - Run `mintlify install` it'll re-install dependencies.
-- Page loads as a 404 - Make sure you are running in a folder with `mint.json`
